@@ -1,0 +1,1620 @@
+TenantKey,TenantID,TenantName,IsActive,AREA
+1,,None,True,None
+2,1,ก๋วยเตี๋ยวเรือยกพลฯ - Oasis*,False,Oasis
+3,10,Adidas (4PM),False,4PM
+4,100,Hair Decor,False,4PM
+5,1000,Paradise Gems - Oasis,False,Oasis
+6,1001,Club 3 EX by Thanyaporn Jewely - Oasis*,False,Oasis
+7,1002,Greyhound Original - 4PL,True,4PL
+8,1003,Dairy Queen (4AM),True,4AM
+9,1004,Chanel  (4AM),False,4AM
+10,1005,GIVENCHY ,True,4PL
+11,1006,PM Zpell ,False,Oasis
+12,1007,HAY (4AM),False,4AM
+13,1008,Fuku Matcha Kyoto Cafe,True,4AM
+14,1009,Other,False,st
+15,101,Hair World (ปิด),False,4AM
+16,1010,BATA TENNIS,False,4AM
+17,1011,Hermes-4PL,True,4PL
+18,1012,The Grill Tokyo-4PL,True,4PL
+19,1013,Department-4PL,True,4PL
+20,1014,Cafe Chilli-4PL,True,4PL
+21,1015,Cafe Chili-4PL,False,4PL
+22,1016,BVLGARI-4PL,True,4PL
+23,1017,Jim Thompson-4PL,True,4PL
+24,1018,Naraya-4PL,True,4PL
+25,1019,JIM THOMPSON,False,4PL
+26,102,Headquarter,False,4AM
+27,1020,Boots -4PL,False,4PL
+28,1021,Boots - 4PL,True,4PL
+29,1022,JASPAL-4PL,True,4PL
+30,1023,Uniqlo-4PL,True,4PL
+31,1024,H&M- 4PL,True,4PL
+32,1025,Cartier- 4PL,True,4PL
+33,1026,Louis Vuittons-4PL,True,4PL
+34,1027,Club 21- 4PL,False,4PL
+35,1028,Loewe-4PL,True,4PL
+36,1029,ZARA- 4PL,True,4PL
+37,103,Hewgo,False,4AM
+38,1030,Chanel-4PL,True,4PL
+39,1031,JIMMY CHOO - 4PL,True,4PL
+40,1032,Salvatore Ferragamo-4PL,True,4PL
+41,1033,HONMONO-4PL*,True,4PL
+42,1034,FENDI-4PL,True,4PL
+43,1035,เตี๋ยวตาโต - 4PL*,True,4PL
+44,1036,Thann-4PL*,True,4PL
+45,1037,Prada- 4PL,True,4PL
+46,1038,Aveda- 4PL,False,4PL
+47,1039,Aveda- 4PL,True,4PL
+48,104,Hound &amp; Friends,False,4AM
+49,1040,MANNA-4PL,False,4PL
+50,1041,TWG Tea Salon & Boutique - 4PL*,True,4PL
+51,1042,เตี๋ยวตาโต,False,4PL
+52,1043,Gelato - 4AM,False,4AM
+53,1044,AOI-4PL,True,4PL
+54,1045,Paragon Cineplex-4PL,True,4PL
+55,1046,Taling Pling- 4PL,True,4PL
+56,1047,กุลนารถ - 4AM,False,4AM
+57,1048,Moga-4PL,True,4PL
+58,1049,Romrawin Clinic-4PL,True,4PL
+59,105,Howard Miller,False,4PM
+60,1050,TOD'S- 4PL,True,4PL
+61,1051,Yogurtland - 4AM,True,4AM
+62,1052,Moomin Cafe - 4AM,True,4AM
+63,1053,House of  PB - 4AM,True,4AM
+64,1054,MUJOSH - 4AM,True,4AM
+65,1055,NARS.,False,4AM
+66,1056,DCR - 4PM,True,4PM
+67,1057,Viet Cuisine 4PL,True,4PL
+68,1058,Scoozi Pizza 4PL*,False,4PL
+69,1059,Boots - 4PM,True,4PM
+70,106,HP Mobility Shop,False,4PM
+71,1060,Room Concept Store - 4PM,True,4PM
+72,1061,Flight 001 - 4PM,True,4PM
+73,1062,Rimowa - 4PM,True,4PM
+74,1063,Comme Des Garcons - 4PM,True,4PM
+75,1064,DIESEL - 4PM,True,4PM
+76,1065,ISSEY MIYAKE WOMEN - 4PM,True,4PM
+77,1066,JAMIE'S ITALIAN - 4PM,True,4PM
+78,1067,RAG & BONE - 4PM,True,4PM
+79,1068,ADLER GALERIE - 4PM,False,4PM
+80,1069,VEDA SALON - 4PM,True,4PM
+81,107,Inspried by Inner Complexity,False,4AM
+82,1070,HACKETT - 4PM,False,4PM
+83,1071,ISSEY MIYAKE MEN - 4PM,True,4PM
+84,1072,PURSUIT - 4PM,True,4PM
+85,1073,LACOSTE - 4PM,True,4PM
+86,1074,PALLADIUM - 4PM,True,4PM
+87,1075,ASICS - 4PM,True,4PM
+88,1076,NIKE - 4PM,True,4PM
+89,1077,VANS - 4PM,True,4PM
+90,1078,CONVERSE - 4PM,True,4PM
+91,1079,ALPHA RUNNER - 4PM,False,4PM
+92,108,Intanin,False,4AM
+93,1080,ADIDAS - 4PM,True,4PM
+94,1081,CRAZH - 4PM,False,4PM
+95,1082,THE NORTH FACE / SMART TRAVEL - 4PM,True,4PM
+96,1083,RUBBER / MOTO CULTER - 4PM,True,4PM
+97,1084,BIG CAMERA - 4PM,True,4PM
+98,1085,DJI DRONE - 4PM,True,4PM
+99,1086,BILLBOARD CAFE - 4PM,True,4PM
+100,1087,MUST LOVE MAC - 4PM,True,4PM
+101,1088,HABITAT - 4PM,True,4PM
+102,1089,PHUFA - 4PM,True,4PM
+103,109,International House Of Stamps,False,4PM
+104,1090,CAFE NOW - 4PM,False,4PM
+105,1091,KA JEWELRY - 4PM,False,4PM
+106,1092,PROUD GEMS - 4PM,True,4PM
+107,1093,SHINE JEWELRY - 4PM,True,4PM
+108,1094,THANN SPA - 4PM,True,4PM
+109,1095,O.D.S. - 4PM,True,4PM
+110,1096,OUTBACK - 4PM,True,4PM
+111,1097,TOY STATION - 4PM,False,4PM
+112,1098,STRIP & Browhaus - 4PM,True,4PM
+113,1099,FOOD LAP - 4PM,False,4PM
+114,11,Adidas Original,True,4AM
+115,110,Italia Design,False,4PM
+116,1100,FOOD ZONE - 4PM,True,4PM
+117,1101,MADAME TUSSAUDS - 4PM,True,4PM
+118,1102,LEICA - 4PM,False,4PM
+119,1103,CAZH - 4PM,True,4PM
+120,1104,The Grass - 4AM,False,4AM
+121,1105,Supra - 4AM,False,4AM
+122,1106,Marimekko - 4PM,True,4PM
+123,1107,Dressed - 4PM,True,4PM
+124,1108,Boost Juice - 4PM,False,4PM
+125,1109,K.A. Jewelry - 4PM,True,4PM
+126,111,Iyara Oriental,False,4PM
+127,1110,Bath & Bloom - 4AM,False,4AM
+128,1111,Carpisa - 4AM,True,4AM
+129,1112,Barberford Noir - 4PM,True,4PM
+130,1113,I+D CAFE - 4PM,True,4PM
+131,1114,Tokyu 9 (Food Zone),False,Oasis
+132,1115,YongBlood - 4AM,False,4AM
+133,1116,Royal Life Pacific - Oasis*,False,Oasis
+134,1117,ALDO - 4AM,True,4AM
+135,1118,ERB - 4PM (บูธชั่วคราว),False,4PM
+136,1119,H&M - Oasis,False,Oasis
+137,112,Jaspal - 4AM,True,4AM
+138,1120,Club 21 Collectible,False,4AM
+139,1121,Virgin Active / Fitness Club,True,4PM
+140,1122,Smiley Hound - 4AM,True,4AM
+141,1123,Sweet Lab - 4PM,True,4PM
+142,1124,White Day Patisserie - 4AM,True,4AM
+143,1125,YenlyYours Dessert - 4AM,True,4AM
+144,1126,Other,False,st
+145,1127,Jon Michel - 4AM,False,4AM
+146,1128,ใส่ชื่อร้านค้า,False,Oasis
+147,1129,Brooks Brothers - 4PM,True,4PM
+148,113,Joan &amp; David,False,4PM
+149,1130,PianoForte - Oasis*,False,Oasis
+150,1131,VIZ Apply 4PM 1,000 Point 1-21 Sep 2016,True,4AM
+151,1132,VOUGE LOVES 2-4 Sep 16 - 4AM,False,4AM
+152,1133,VOUGE LOVES 2-4 Sep 16 - 4PM,False,4PM
+153,1134,Tod's - 4PL,False,4PL
+154,1135,Celine-4PL,True,4PL
+155,1136,Emilio Pucci - 4PL,True,4PL
+156,1137,Miu Miu - 4PL,True,4PL
+157,1138,Lulu Guinness - 4PL,False,4PL
+158,1139,Hugo Boss - 4PL,True,4PL
+159,114,Jousse,False,4AM
+160,1140,Valentino - 4PL,True,4PL
+161,1141,Chloe' - 4PL,False,4PL
+162,1142,Burberry - 4PL,True,4PL
+163,1143,Paul Smith - 4PL,True,4PL
+164,1144,Emporio Armani - 4PL,True,4PL
+165,1145,Mulberry - 4PL,True,4PL
+166,1146,Girgio Armani - 4PL,True,4PL
+167,1147,Balenciaga - 4PL,True,4PL
+168,1148,Club21 Accessories - 4PL,False,4PL
+169,1149,Lapalette - 4AM,False,4AM
+170,115,K.A. Jewelry (ย้ายไป 4PM),False,4AM
+171,1150,Gojuu Sushi - 4AM,True,4AM
+172,1151,Snowbing - Oasis,False,Oasis
+173,1152,No bag 4PM  Sep - 31 Dec 16 (50 Point),True,4PM
+174,1153,No bag 4PM Sep - 31 Dec 16 (100 Point),True,4PM
+175,1154,Shaka Leisure - 4AM,True,4AM
+176,1155,Majestic - Oasis*,False,Oasis
+177,1156,AI - 4PM,True,4PM
+178,1157,BE BAR - 4PM,True,4PM
+179,1158,Fastractkid-Oasis*,False,Oasis
+180,1159,TUMI - 4PM,True,4PM
+181,116,Karen Millen,False,4PM
+182,1160,ICONIC - 4AM,True,4AM
+183,1161,Mo&Moshi - 4AM,True,4AM
+184,1162,New Era - 4AM,True,4AM
+185,1163,Jo  Malone - 4PM,True,4PM
+186,1164,Alien Ware - 4PM,True,4PM
+187,1165,Matter Makers - 4AM,False,4AM
+188,1166,Baby Sensory - Oasis*,False,Oasis
+189,1167,Coffee Beans by Dao - Paragon,True,4PL
+190,1168,Milin - 4AM,True,4AM
+191,1169,Missile - 4AM,False,4AM
+192,117,Ken Nakamura,False,4AM
+193,1170,Veganerie - 4PL,False,4PL
+194,1171,Gift Wonderland - 4AM,False,4AM
+195,1172,Everyday Karmakamet - 4AM,True,4AM
+196,1173,Kang Ban Phe - 4AM,True,4AM
+197,1174,SIX P.M. - 4AM,True,4AM
+198,1175,Vuudh - 4AM,False,4AM
+199,1176,Rainbo - 4AM,True,4AM
+200,1177,Harley Davidson - 4PL,True,4PL
+201,1178,Crab&Craw - 4PL*,True,4PL
+202,1179,KARAT-4PL*,True,4PL
+203,118,Kenneth Cole,False,4PM
+204,1180,TANG'S BY CHUALEE - 4PL*,True,4PL
+205,1181,TRUE COFFEE - 4PL*,True,4PL
+206,1182,แหลมเจริญซีฟู้ด - 4PL*,True,4PL
+207,1183,EVAIME - 4PL*,True,4PL
+208,1184,COLD STONE - 4PL*,True,4PL
+209,1185,ANOTHERHOUND CAFE - 4PL*,True,4PL
+210,1186,LUKKAITHONG ROYAL COOKING - 4PL*,True,4PL
+211,1187,WA Q YAKINIKU - 4PL*,True,4PL
+212,1188,VIVARIUM - 4PL*,True,4PL
+213,1189,LADUREE - 4PL*,True,4PL
+214,119,Keven,False,4AM
+215,1190,HARRODS TEA ROOM - 4PL*,True,4PL
+216,1191,Brix Dessert Bar - 4PL*,True,4PL
+217,1192,Gokoku - 4PL*,True,4PL
+218,1193,Holy Moly - 4PL*,False,4PL
+219,1194,Milch - 4PL*,True,4PL
+220,1195,Mugendai Steakhouse - 4PL*,True,4PL
+221,1196,4PL Scala Restaurant - 4PL*,True,4PL
+222,1197,Shio - 4PL*,True,4PL
+223,1198,Veganerie - 4PL*,True,4PL
+224,1199,Whittard Chelsea 1886 - 4PL*,True,4PL
+225,12,Aesthetic Shop,False,4AM
+226,120,Kipling - 4AM,True,4AM
+227,1200,MANDARIN ORIENTAL SHOP - 4PL*,True,4PL
+228,1201,Mercedes Me Box - 4AM,False,4PM
+229,1202,Brandy Melville - 4AM,True,4AM
+230,1203,Etam - 4AM,True,4AM
+231,1204,COACH - 4PM,True,4PM
+232,1205,Indigo Skin - 4AM,True,4AM
+233,1206,Lush - 4AM,True,4AM
+234,1207,My Kitchen - 4PM,True,4PM
+235,1208,Melon Story - 4PL,False,4PL
+236,1209,Shiseido Parlour - 4PL,True,4PL
+237,121,Kloset - 4AM,True,4AM
+238,1210,Beauty Sanctury Zone - 4AM,False,4AM
+239,1211,Sharetea - 4PM,True,4PM
+240,1212,My Kitchen1 - 4PM,True,4PM
+241,1213,My Kitchen 2 - 4PM,True,4PM
+242,1214,My Kitchen 3 - 4PM,True,4PM
+243,1215,My Kitchen 4 - 4PM,True,4PM
+244,1216,My Kitchen 5 - 4PM,True,4PM
+245,1217,Thomas Sabo - 4AM,False,4AM
+246,1218,Panpuri - 4PM,True,4PM
+247,1219,GINIV - 4AM,False,4AM
+248,122,Kookai,False,4PM
+249,1220,Baan Moomin - 4AM,True,4AM
+250,1221,Anello - 4AM,True,4AM
+251,1222,Godiva - 4AM,True,4AM
+252,1223,Her4AMhel - 4AM,True,4AM
+253,1224,ADHOC-4AM,True,4AM
+254,1225,P.Mith - 4AM,True,4AM
+255,1226,Premiera - 4PL,True,4PL
+256,1227,S.T.Daimond - 4PL,True,4PL
+257,1228,Scintilla - 4PL,True,4PL
+258,1229,Sette - 4PL,True,4PL
+259,123,Lacoste (4AM),False,4AM
+260,1230,COACH - 4PL,True,4PL
+261,1231,Der Mond - 4PL,True,4PL
+262,1232,Le Beau - 4PL,True,4PL
+263,1233,Rajdamri Gems - 4PL,True,4PL
+264,1234,Siam Tiara - 4PL,True,4PL
+265,1235,Sirinapa Diamond - 4PL,True,4PL
+266,1236,Xavier - 4PL,True,4PL
+267,1237,Rotsaniyom Yours - 4AM,True,4AM
+268,1238,Indigo Blue Thread - 4AM,True,4AM
+269,1239,itsskin - 4AM,False,4AM
+270,124,Lacoste (4PM),False,4PM
+271,1240,MAIS MAIS - 4AM,False,4AM
+272,1241,Hubba - 4PM,True,4PM
+273,1242,Toys R Us - 4AM,False,4AM
+274,1243,Tonkatsu Wako - 4AM,True,4AM
+275,1244,BULGARI - 4PL,True,4PL
+276,1245,CK Pop Up Store - 4AM,False,4AM
+277,1246,Beleza Beaut -Oasis*,False,Oasis
+278,1247,Catier - 4PL,True,4PL
+279,1248,Elephant Parade - 4PM,True,4PM
+280,1249,Love Supreme - 4AM,False,4AM
+281,125,Laneige,False,4AM
+282,1250,Yves Saint Laurent - 4PL,True,4PL
+283,1251,ake ake - 4AM,True,4AM
+284,1252,Rolex - 4PL,True,4PL
+285,1253,Burberry - 4PL  พิเศษ  ได้รับคะแนน VIZ,True,4PL
+286,1254,OWNORY - 4AM,True,4AM
+287,1255,FAND - 4AM,True,4AM
+288,1256,Paula's Choice Skincare - 4PM,True,4PM
+289,1257,Dhanu - 4AM,True,4AM
+290,1258,Topman - 4PM,True,4PM
+291,1259,Quilt by Kanya - Oasis*,False,Oasis
+292,126,Lauderdale,False,4PM
+293,1260,The Travel  Store - 4AM,False,4AM
+294,1261,Charm Beauty Solution - Oasis*,False,Oasis
+295,1262,Temp DIP Designers,True,4AM
+296,1263,Rebecca Minkoff - 4AM,False,4AM
+297,1264,Wang Jia Sha - 4PL,True,4PL
+298,1265,Dr.Martens - 4AM,True,4AM
+299,1266,Bake a wish - 4AM,True,4AM
+300,1267,Oh La La bijouterie- 4AM,True,4AM
+301,1268,Bake Cheese Tart - 4AM,True,4AM
+302,1269,Radee Nail & Spa - 4PM,True,4PM
+303,127,Le Sportsac,False,4PM
+304,1270,After You - 4PL,True,4PL
+305,1271,After You Durian - 4PL,True,4PL
+306,1272,Au Bon Pain - 4PL,True,4PL
+307,1273,Bake A Wish - 4PL,True,4PL
+308,1274,Bake Smith - 4PL,True,4PL
+309,1275,Bang Wan - 4PL,True,4PL
+310,1276,Ben & Jerry - 4PL,True,4PL
+311,1277,Ben's Cookies - 4PL,True,4PL
+312,1278,Bread's Talk - 4PL,True,4PL
+313,1279,Dairy Queen - 4PL,True,4PL
+314,128,Lee Cafe',False,4AM
+315,1280,Dunkin Donuts - 4PL,True,4PL
+316,1281,Flavor Field - 4PL,True,4PL
+317,1282,Garrett - 4PL,True,4PL
+318,1283,Gindako - 4PL,True,4PL
+319,1284,Haagen Dazs - 4PL,True,4PL
+320,1285,IBERRY - 4PL,True,4PL
+321,1286,IHOP - 4PL,True,4PL
+322,1287,It's Happened to be a cafe - 4PL,True,4PL
+323,1288,Jamba Juice - 4PL,True,4PL
+324,1289,Kanom - 4PL,True,4PL
+325,129,Lina Thai Silk,False,4AM
+326,1290,Krispy Kream - 4PL,True,4PL
+327,1291,Kyo Roll En - 4PL,True,4PL
+328,1292,Kyobar - 4PL,True,4PL
+329,1293,Le Tao - 4PL,True,4PL
+330,1294,Mix Cakes&Bakery - 4PL,True,4PL
+331,1295,Pancake Cafe - 4PL,True,4PL
+332,1296,Puff&Pie - 4PL,True,4PL
+333,1297,S&P - 4PL,True,4PL
+334,1298,Swensen's - 4PL,True,4PL
+335,1299,Tango - 4PL,True,4PL
+336,13,All Living,False,4PM
+337,130,Lina Thai Souvenir,False,4AM
+338,1300,Uncle Tetsu - 4PL,True,4PL
+339,1301,Yoo Moo - 4PL,True,4PL
+340,1302,Coco Ichibanya - 4PL,True,4PL
+341,1303,Homsuwan - 4PL,True,4PL
+342,1304,Amici - 4PL,True,4PL
+343,1305,Bangkok Burger - 4PL,True,4PL
+344,1306,Bankara Ramen - 4PL,True,4PL
+345,1307,Burger King - 4PL,True,4PL
+346,1308,Cafe Fish - 4PL,True,4PL
+347,1309,Chingcha Chalee - 4PL,True,4PL
+348,131,Linason Travel,False,4PM
+349,1310,Cinnabon - 4PL,True,4PL
+350,1311,Clinton - 4PL,True,4PL
+351,1312,Dress - 4PL,True,4PL
+352,1313,Four Season - 4PL,True,4PL
+353,1314,Fuji Restaurant - 4PL,True,4PL
+354,1315,Fumi - 4PL,True,4PL
+355,1316,Grand Palace - 4PL,True,4PL
+356,1317,Happy Beef - 4PL,True,4PL
+357,1318,Hokkaidon - 4PL,True,4PL
+358,1319,Hokkaido Soft - 4PL,True,4PL
+359,132,PM (Beyond Ordinary Store) (4PM),True,4PM
+360,1320,KFC - 4PL,True,4PL
+361,1321,Kloset - 4PL,True,4PL
+362,1322,La Creperie - 4PL,True,4PL
+363,1323,La Monita - 4PL,True,4PL
+364,1324,Maisen - 4PL,True,4PL
+365,1325,Mc Donald - 4PL,True,4PL
+366,1326,Miyatake Udon - 4PL,True,4PL
+367,1327,MK Gold - 4PL,True,4PL
+368,1328,Mos Burger - 4PL,True,4PL
+369,1329,Nara - 4PL,True,4PL
+370,133,Lyn - 4AM,True,4AM
+371,1330,Nippon Kai - 4PL,True,4PL
+372,1331,Nuntsuttei - 4PL,True,4PL
+373,1332,OOTOYA - 4PL,True,4PL
+374,1333,Peppery Thai Bistro - 4PL,True,4PL
+375,1334,Pho Vietnam - 4PL,True,4PL
+376,1335,Piri Piri Chicken - 4PL,True,4PL
+377,1336,Potato Corner - 4PL,True,4PL
+378,1337,Rosani - 4PL,True,4PL
+379,1338,Royal India - 4PL,True,4PL
+380,1339,Signor Sassi - 4PL,True,4PL
+381,134,Everywear,False,4AM
+382,1340,Subway - 4PL,True,4PL
+383,1341,Teraoka Gyoza - 4PL,True,4PL
+384,1342,The Bibimbab - 4PL,True,4PL
+385,1343,The ninth cafe - 4PL,True,4PL
+386,1344,Town House - 4PL,True,4PL
+387,1345,Umami & Fallabella - 4PL,True,4PL
+388,1346,Vanilla Brasserie - 4PL,True,4PL
+389,1347,D'Watch,True,4PL
+390,1348,Frank Muller - 4PL,True,4PL
+391,1349,IWC - 4PL,True,4PL
+392,135,M.A.C.,True,4AM
+393,1350,Jaeger Le Coultre - 4PL,True,4PL
+394,1351,Omega - 4PL,True,4PL
+395,1352,Panarai - 4PL,True,4PL
+396,1353,Patek - 4PL,True,4PL
+397,1354,Patek by TKI - 4PL,True,4PL
+398,1355,Pendullum - 4PL,True,4PL
+399,1356,Piaget - 4PL,True,4PL
+400,1357,PMT Hourglass - 4PL,True,4PL
+401,1358,Yong by TKI - 4PL,True,4PL
+402,1359,Roger Vivier - 4PL,True,4PL
+403,136,Macintosh Center,False,4PM
+404,1360,Montblanc - 4PL,True,4PL
+405,1361,Mikimoto - 4PL,True,4PL
+406,1362,Prima Gems - 4PL,True,4PL
+407,1363,Blue River - 4PL,True,4PL
+408,1364,Charms - 4PL,True,4PL
+409,1365,Kiehl's - 4PL,True,4PL
+410,1366,Bombyx - 4PL,True,4PL
+411,1367,LAB Pharmacy - 4PL,True,4PL
+412,1368,Bejoux De Louis - 4PL,True,4PL
+413,1369,Charriol - 4PL,True,4PL
+414,137,Madame Tango,False,4PM
+415,1370,Cubic Gems - 4PL,True,4PL
+416,1371,Gem Pavillion - 4PL,True,4PL
+417,1372,P&P Jewelry - 4PL,True,4PL
+418,1373,Sirus Tanya - 4PL,True,4PL
+419,1374,Swarovski - 4PL,True,4PL
+420,1375,Trez - 4PL,False,Oasis
+421,1376,Zara Home - 4PL,True,4PL
+422,1377,ไฉไล - 4PL,True,4PL
+423,1378,Godiva - 4PL,True,4PL
+424,1379,Paul - 4PL,True,4PL
+425,138,Mae Fah Luang Foundation,False,4PM
+426,1380,Starbucks - 4PL,True,4PL
+427,1381,Botanique - 4PL,True,4PL
+428,1382,Crabtree & Evelyn - 4PL,True,4PL
+429,1383,Erb - 4PL,True,4PL
+430,1384,Lampe Berger - 4PL,True,4PL
+431,1385,Organika - 4PL,True,4PL
+432,1386,Panpuri - 4PL,True,4PL
+433,1387,Yugen - 4PL,True,4PL
+434,1388,APEX - 4PL,True,4PL
+435,1389,AURARIUS - 4PL,True,4PL
+436,139,Masterpiece,False,4PM
+437,1390,BIDC - 4PL,True,4PL
+438,1391,GRATIAE - 4PL,True,4PL
+439,1392,LA BRETAGNE CLINIC - 4PL,True,4PL
+440,1393,MINERVA CLINIC - 4PL,True,4PL
+441,1394,PEWDEE CLINIC - 4PL,True,4PL
+442,1395,SLIM & SLENDER by ROMRAWIN - 4PL,True,4PL
+443,1396,SALON INTER - 4PL,True,4PL
+444,1397,SEACRET - 4PL,True,4PL
+445,1398,SKIN SENSE - 4PL,True,4PL
+446,1399,SLC CLAIRE - 4PL,True,4PL
+447,14,AlX Armani Exchange,False,4PM
+448,140,Maytha,False,4PM
+449,1400,THE 4AMARLETT - 4PL,True,4PL
+450,1401,THE SISTER NAILS - 4PL,True,4PL
+451,1402,ASIA BOOK -4PL,True,4PL
+452,1403,COFFEE WORLD - 4PL,True,4PL
+453,1404,PRIMA NEST - 4PL,True,4PL
+454,1405,BETTER VISION - 4PL,True,4PL
+455,1406,EYELAB - 4PL,True,4PL
+456,1407,IC BERLIN - 4PL,True,4PL
+457,1408,INFINITE GALLERY - 4PL,True,4PL
+458,1409,LUXOPTIC - 4PL,True,4PL
+459,141,Miss Sixty Energie,False,4AM
+460,1410,PARIS MIKI - 4PL,True,4PL
+461,1411,WALTZ - 4PL,True,4PL
+462,1412,BOSE - 4PL,True,4PL
+463,1413,CH HOME MEDIAS - 4PL,True,4PL
+464,1414,DREAM THEATRE - 4PL,True,4PL
+465,1415,ASTON MARTIN - 4PL,True,4PL
+466,1416,HEAR - 4PL,True,4PL
+467,1417,HISTYLE HIFI - 4PL,True,4PL
+468,1418,Other,True,st
+469,1419,LINN - 4PL,True,4PL
+470,142,MNG-Oasis,False,Oasis
+471,1420,MANGPONG - 4PL,True,4PL
+472,1421,MARK LEVINSON - 4PL,True,4PL
+473,1422,MUSIC COLLECTION - 4PL,True,4PL
+474,1423,OSIM - 4PL,True,4PL
+475,1424,PIONEER - 4PL,True,4PL
+476,1425,SONY - 4PL,True,4PL
+477,1426,นครหลวงการดนตรี - 4PL,True,4PL
+478,1427,BENTLEY - 4PL,True,4PL
+479,1428,BMW - 4PL,True,4PL
+480,1429,DUCATI - 4PL,True,4PL
+481,143,Mobile City,False,4AM
+482,1430,HONMA - 4PL,True,4PL
+483,1431,LAMBORGHINI - 4PL,True,4PL
+484,1432,MASERATI - 4PL,True,4PL
+485,1433,MCLAREN - 4PL,True,4PL
+486,1434,PASSION - 4PL,True,4PL
+487,1435,POR4AMHE - 4PL,True,4PL
+488,1436,POR4AMHE DESIGN - 4PL,True,4PL
+489,1437,ROLLS ROYCE - 4PL,True,4PL
+490,1438,EASTBOURNE - 4PL,True,4PL
+491,1439,HUAWEI- 4PL ,True,4PL
+492,144,Mobilia,False,4PM
+493,1440,JAYMART - 4PL,True,4PL
+494,1441,OPPO BY JARMART - 4PL,True,4PL
+495,1442,VERTU - 4PL,True,4PL
+496,1443,ARKITEKTURA - 4PL,True,4PL
+497,1444,BAKER - 4PL,True,4PL
+498,1445,BARBARBERRY - 4PL,True,4PL
+499,1446,BO CONCEPT - 4PL,True,4PL
+500,1447,CALVIN CLEIN CURATOR COLLECTION - 4PL,True,4PL
+501,1448,CHANINTR LIVING - 4PL,True,4PL
+502,1449,CRAFT - 4PL,True,4PL
+503,145,Monkey See,False,4AM
+504,1450,CRYSTAL & SYMPHONY - 4PL,True,4PL
+505,1451,DM HOME FENDI CASA - 4PL,True,4PL
+506,1452,DM HOME RALPH LAURENT - 4PL,True,4PL
+507,1453,HERMAN MILLER - 4PL,True,4PL
+508,1454,JASPAL HOME - 4PL,True,4PL
+509,1455,NATUZZI - 4PL,True,4PL
+510,1456,PASAYA - 4PL,True,4PL
+511,1457,SIE MATIC BY DM HOME - 4PL,True,4PL
+512,1458,ST.LOUIS - 4PL,True,4PL
+513,1459,TREND DESIGN - 4PL,False,Oasis
+514,146,Morgan,False,4AM
+515,1460,.LIFE -4PL,False,4PL
+516,1461,BANANA MOBILE - 4PL,True,4PL
+517,1462,DTAC - 4PL,True,4PL
+518,1463,ISTUDIO - 4PL,True,4PL
+519,1464,SAMSUNG - 4PL,True,4PL
+520,1465,TRUE - 4PL,True,4PL
+521,1466,NDOL NATURAL - 4PL,True,4PL
+522,1467,PRALYN - 4PL,True,4PL
+523,1468,PRANALI - 4PL,True,4PL
+524,1469,RYN - 4PL,True,4PL
+525,147,Mrs. Fields,False,4AM
+526,1470,THANIYA - 4PL,True,4PL
+527,1471,AUNTIE ANN - 4PL,True,4PL
+528,1472,BASKIN ROBBINS - 4PL,True,4PL
+529,1473,HUNGRY BEAR - 4PL,True,4PL
+530,1474,JAIYEN - 4PL,True,4PL
+531,1475,KANE MOCHI - 4PL,True,4PL
+532,1476,MILK COW - 4PL,True,4PL
+533,1477,MR.SHAKE - 4PL,True,4PL
+534,1478,SQUEEZE - 4PL,True,4PL
+535,1479,MOMOKO BAGS & SHOES SPA - 4PL,True,4PL
+536,148,Multi Style,False,4PM
+537,1480,ADUL COLLECTION - 4PL,True,4PL
+538,1481,ASLAM QURESHI - 4PL,True,4PL
+539,1482,BAAN ICE - 4PL,True,4PL
+540,1483,CAMP TOKYO - 4PL,True,4PL
+541,1484,CHABUTON - 4PL,True,4PL
+542,1485,FAI SOR KAM - 4PL,True,4PL
+543,1486,LAEM CHAROEN SEAFOOD - 4PL,False,4PL
+544,1487,MIDTOWN - 4PL,True,4PL
+545,1488,NUER KOO - 4PL,True,4PL
+546,1489,SABOTEN - 4PL,True,4PL
+547,149,Munchu's,False,4AM
+548,1490,SANSAB - 4PL,True,4PL
+549,1491,SUSHIDEN - 4PL,True,4PL
+550,1492,TIEW TAA TOH - 4PL,True,4PL
+551,1493,TUDARI - 4PL,True,4PL
+552,1494,AIS - 4PL,True,4PL
+553,1495,D INFINITE - 4PL,True,4PL
+554,1496,IT CITY - 4PL,True,4PL
+555,1497,JAYMART - 4PL,True,4PL
+556,1498,CAFE BORA - 4PL,True,4PL
+557,1499,FREEZE FROZEN YOGURT - 4PL,True,4PL
+558,15,anr men,True,4AM
+559,150,Muse By Good Mixer,False,4AM
+560,1500,FUCHEER - 4PL,True,4PL
+561,1501,PHUFA - 4PL,True,4PL
+562,1502,SATIRA - 4PL,True,4PL
+563,1503,FIRST FACE - 4PL,True,4PL
+564,1504,MAI FAI INDIGO HOUSE - 4PL,True,4PL
+565,1505,PKS - 4PL,True,4PL
+566,1506,SECRET - 4PL,True,4PL
+567,1507,FERRARI STORE - 4PL,True,4PL
+568,1508,KINOKUNIYA,True,4PL
+569,1509,MISTER DONUT - 4PL,True,4PL
+570,151,Music Collection,False,4PM
+571,1510,PLAYCAFE BY BLUE CUP - 4PL,True,4PL
+572,1511,On Time - 4PM,True,4PM
+573,1512,Sulbing - 4AM,True,4AM
+574,1513,ETUDE HOUSE - 4AM,True,4AM
+575,1514,FUSE - 4AM,False,4AM
+576,1515,HEEKCAA - 4PM,True,4PM
+577,1516,SULBING - 4AM,False,4AM
+578,1517,Mango Garden,True,4PL
+579,1518,Europa,True,4PL
+580,1519,Flynow - 4PL,True,4PL
+581,152,Nail Cafe',False,4AM
+582,1520,Footwork,True,4PL
+583,1521,Footwork Noir,True,4PL
+584,1522,GAP,True,4PL
+585,1523,Aldo,True,4PL
+586,1524,Crazy Step,True,4PL
+587,1525,DVF,True,4PL
+588,1526,Longchamp,True,4PL
+589,1527,Massimo Dutti,True,4PL
+590,1528,Nai Chan Fabric,True,4PL
+591,1529,Nich,True,4PL
+592,153,Nakamichi,False,4PM
+593,1530,Nine West - 4PL,True,4PL
+594,1531,Noriko,True,4PL
+595,1532,Riko,True,4PL
+596,1533,Pronto,True,4PL
+597,1534,Trussardi,True,4PL
+598,1535,Tumi - 4PL,True,4PL
+599,1536,Swatch - 4PL,False,4PL
+600,1537,Thomas Sabo,True,4PL
+601,1538,Nespresso,True,4PL
+602,1539,Pot Ministry,True,4PL
+603,154,Nana Coco,False,4AM
+604,1540,Ermenegildo Zegna,True,4PL
+605,1541,Sirivannavari Bangkok,True,4PL
+606,1542,Sealife,True,4PL
+607,1543,Kidzania,True,4PL
+608,1544,Buddhi Belly,True,4PL
+609,1545,Panpuri - 4AM,True,4AM
+610,1546,NINE WEST - 4AM,True,4AM
+611,1547,Doughnut - 4AM,True,4AM
+612,1548,The body shop - 4AM,False,4AM
+613,1549,WEMOTO - 4AM,False,4AM
+614,155,Nandakwang,False,4PM
+615,1550,REPLAY - 4AM,True,4AM
+616,1551,Queensway Clinic - Oasis,False,Oasis
+617,1552,Dreamtoys - 4PL (Paragon Hall),True,4PL
+618,1553,Pankan - 4PM,True,4PM
+619,1554,Cafe Pla - 4AM,True,4AM
+620,1555,BaiMiang - 4PM,True,4PM
+621,1556,MERCURY CLINIC - Oasis*,False,Oasis
+622,1557,WANNASU - 4AM,True,4AM
+623,1558,PAWIS - 4AM,True,4AM
+624,1559,Daruma - 4AM,False,4AM
+625,156,Naughty Monkey,False,4AM
+626,1560,Singnor Sassi - 4PL,True,4PL
+627,1561,TOM  FORD - 4PM,True,4PM
+628,1562,MUJI - 4PM,True,4PM
+629,1563,Pomelo - 4AM,True,4AM
+630,1564,Siwa Arporn - 4AM,True,4AM
+631,1565,Yves Rocher (Fl.4)4AM,True,4AM
+632,1566,WEE - 4AM,True,4AM
+633,1567,ORN - 4AM,False,4AM
+634,1568,Bangkok Bubble Bar - 4AM,True,4AM
+635,1569,Salt Pepper - 4PL,True,4PL
+636,157,Nike (ย้ายไป 4PM),False,4AM
+637,1570,CK Calvin Klein - POP UP - 4AM,True,4AM
+638,1571,XOXO - 4AM,True,4AM
+639,1572,Laura Mercier - 4AM,True,4AM
+640,1573,Dapper - 4AM,True,4AM
+641,1574,Harry Potter - 4PL,True,4PL
+642,1575,PLINN - 4AM,True,4AM
+643,1576,TARR TARR - 4PM,False,4PM
+644,1577,Carolina Lemke - 4AM,True,4AM
+645,1578,THREE - 4AM,False,4AM
+646,1579,PAUL - 4AM,False,4AM
+647,158,Nike Sport Culture,False,4AM
+648,1580,HARRODS - 4AM,False,4AM
+649,1581,PYRA-4AM,True,4AM
+650,1582,Kiss Me Doll - 4AM,True,4AM
+651,1583,HARNN - 4AM,True,4AM
+652,1584,Eric Kayser - 4PM,True,4PM
+653,1585,TARR TARR - 4AM,True,4AM
+654,1586,Lightning Choux - 4PM,False,4PM
+655,1587,SAINT LARENT - 4PL,True,4PL
+656,1588,Lightning Choux - 4PM,True,4PM
+657,1589,Jelly Bunny - 4AM,True,4AM
+658,159,Nine West,False,4PM
+659,1590,Quinn - 4AM,True,4AM
+660,1591,Onitsuka Tiger - 4AM,True,4AM
+661,1592,Me Phonomenon - 4AM,True,4AM
+662,1593,Zaku Zaku - 4AM,True,4AM
+663,1594,HARMENSTONE - 4AM,True,4AM
+664,1595,Rayban - 4AM,True,4AM
+665,1596,Jamie's Burgers - 4PL,True,4PL
+666,1597,Spice Story - 4PL,True,4PL
+667,1598,HICKORY CHAIR - 4PL,True,4PL
+668,1599,DOLCE & GABBANA - 4PL,True,4PL
+669,16,anr women (ปิด),False,4AM
+670,160,Nitikorn Kraivixien Studio,False,4PM
+671,1600,DIOR - 4PL,True,4PL
+672,1601,MCM - 4PL,True,4PL
+673,1602,Sunglass Hunt - 4AM,True,4AM
+674,1603,COS - 4PL,True,4PL
+675,1604,Cobalt - 4PM,True,4PM
+676,1605,Swatch - 4AM,True,4AM
+677,1606,TSUJIRI - 4PL,True,4PL
+678,1607,Dyson - 4PL,True,4PL
+679,1608,MOMENTOUS - 4PL,True,4PL
+680,1609,4F - 4PM,True,4PM
+681,161,NY.LA,False,4AM
+682,1610,FRED PERRY - 4PM,True,4PM
+683,1611,GUCCI-4PL,True,4PL
+684,1612,NET DESIGN - 4PL,True,4PL
+685,1613,PENGEMS - 4PL,True,4PL
+686,1614,Mom&Sis - 4AM,True,4AM
+687,1615,Pablo - 4PL,True,4PL
+688,1616,Pablo - 4PL,False,4PL
+689,1617,KOI - 4PL,True,4PL
+690,1618,YAMAHA 4AMhool - 4PL,True,4PL
+691,1619,Gram - 4PL,True,4PL
+692,162,Oishi Grand,False,4PM
+693,1620,THEA BY THARA - 4AM,True,4AM
+694,1621,Bally - 4PL,True,4PL
+695,1622,House of Eden - 4PM,True,4PM
+696,1623,MyNiLa - 4AM,True,4AM
+697,1624,NANTSUTTEI - 4PL,True,4PL
+698,1625,Ic! Berlin,True,4PL
+699,1626,Insomnia Bangkok - 4AM,True,4AM
+700,1627,SUVARN - 4AM,True,4AM
+701,1628,1628,True,None
+702,1629,1629,True,None
+703,163,Oldies Cafe',False,4AM
+704,1630,1630,True,None
+705,1631,1631,True,None
+706,1632,1632,True,None
+707,1635,1635,True,None
+708,1637,1637,True,None
+709,1638,1638,True,None
+710,164,Ong's Tea,False,4PM
+711,165,Levi's,False,4AM
+712,166,Outback Steakhouse,False,4PM
+713,167,Panta,False,4PM
+714,168,Paris Miki Optical - 4AM,True,4AM
+715,169,Parker & Morgan,False,4PM
+716,17,Anyroom,False,4PM
+717,170,Paul Frank,False,4AM
+718,171,Pena House,False,4AM
+719,172,People's,False,4AM
+720,173,Personal Space,False,4PM
+721,174,Photo Hut,False,4PM
+722,175,Phu Fa,False,4PM
+723,176,Pictory,False,4PM
+724,177,Plastic,False,4AM
+725,178,Playhound,False,4AM
+726,179,Palladuim (เดิมPro Cam-Fis Outfitter),False,4PM
+727,18,Apex Profound Beauty,False,4AM
+728,180,Promod,False,4AM
+729,181,Propaganda (4PM),False,4PM
+730,182,Proud Gems,False,4AM
+731,183,Pruksa Clinic,True,4AM
+732,184,Puma,False,4PM
+733,185,Rajdhevee Clinic,False,4AM
+734,186,Rebecca,False,4AM
+735,187,Red Earth (4AM),False,4AM
+736,188,Replay,False,4PM
+737,189,Rip Curl,False,4AM
+738,19,Apinun,False,4AM
+739,190,Robinson Piano,False,4PM
+740,191,Rock Camp,False,4PM
+741,192,Roominteriorproducts,False,4PM
+742,193,Roxy,False,4AM
+743,194,Royal Porcelain,False,4PM
+744,195,S' Club,False,4AM
+745,196,S' Club,False,4AM
+746,197,S&P,False,4AM
+747,198,S@SS,False,4AM
+748,199,Safa Carpet,False,4PM
+749,20,iStudio,False,4PM
+750,200,SE-ED Book Center,False,4AM
+751,201,Senada - 4AM,True,4AM
+752,202,Shiseido Beauty Center (ย้ายมา 4AM เมื่อ 6.5.58),False,4PM
+753,203,Shu Uemura (4PM),False,4PM
+754,204,4AM Dental Clinic,False,4AM
+755,205,Siam Emporium,False,4AM
+756,206,Sizzler - 4AM,True,4AM
+757,207,Sony Multi AV,False,4PM
+758,208,Sports Junction,False,4AM
+759,209,St.Peter Optical - 4AM,True,4AM
+760,21,AR 3,False,4PM
+761,210,Starbucks Coffee (4AM),False,4AM
+762,211,Starbucks Coffee (4PM),False,4PM
+763,212,Star's Soccer,False,4PM
+764,213,Substance,False,4AM
+765,214,Sundek,False,4AM
+766,215,Volcom Girl,False,4AM
+767,216,Swatch,False,4AM
+768,217,Sweet Lemon,False,4AM
+769,218,Swensen's - 4AM,True,4AM
+770,219,Synonyme,False,4AM
+771,22,ASAP,False,4AM
+772,220,T 4 2,False,4AM
+773,221,Tag Heuer - 4AM,True,4AM
+774,222,Tango - 4AM,True,4AM
+775,223,Teddy Portrait,False,4PM
+776,224,Thanachart Bank,False,4PM
+777,225,Thann Sanctuary - 4AM(ย้ายมา 4AM เมื่อ 6.5.58),True,4AM
+778,226,The Body Shop,False,4AM
+779,227,The ETC,False,4AM
+780,228,The Legend,False,4AM
+781,229,The Metropolitian Museum of Art Store, New York,False,4PM
+782,23,Asia Books (4PM),False,4PM
+783,230,The North Face (4PM),False,4PM
+784,231,The Oddyssee,False,4AM
+785,232,The Pizza Company - 4AM,True,4AM
+786,233,Theatre - 4AM,True,4AM
+787,234,Tidbit Treasure,False,4PM
+788,235,Timberland,False,4PM
+789,236,Time's End,False,4AM
+790,237,Toni & Guy,False,4PM
+791,238,Trocadero Time,False,4PM
+792,239,true move,False,4PM
+793,24,Aster Spring,False,4PM
+794,240,Tube Gallery - 4AM,True,4AM
+795,241,U2,False,4AM
+796,242,UCC Cafe' City 21,False,4AM
+797,243,United Colors Of Benetton,False,4AM
+798,244,U-Turn,False,4AM
+799,245,Villains S.F. - 4AM,True,4AM
+800,246,VNC - 4AM,True,4AM
+801,247,Volcom,False,4AM
+802,248,The Urban,False,4AM
+803,249,Voxrock,False,4AM
+804,25,A-Time Studio,False,4AM
+805,250,Watsons,False,4PM
+806,251,X^ACT - 4AM,True,4AM
+807,252,X^ACT Men,False,4AM
+808,253,XOXO,False,4AM
+809,254,X-Squared,False,4AM
+810,255,Yves Rocher,False,4AM
+811,256,Yves Rocher - 4AM FL.2,True,4AM
+812,257,Zen (Japanese Restaurant) - 4AM,True,4AM
+813,258,House of Stamp (4PM),False,4PM
+814,259,Quiksilver,False,4AM
+815,26,Au Bon Pain (4PM),False,4PM
+816,260,Decine by EGV,False,4AM
+817,262,Just Snap,False,4AM
+818,263,Telewiz,False,4PM
+819,264,Workshop  - 4AM,True,4AM
+820,265,WALL STREET,False,4PM
+821,266,Telewiz,False,4PM
+822,267,Aree Kasem,False,4AM
+823,268,Shabushi - 4AM,True,4AM
+824,269,Mainichi,False,4PM
+825,27,Baking Soda,True,4AM
+826,270,Shaka - 4AM,True,4AM
+827,271,Fox,False,4AM
+828,272,Thasiam (ปิด),False,4AM
+829,273,ท่าสยาม,False,4AM
+830,274,Pleats Please @4PM,False,4AM
+831,275,Nature Touch,False,4PM
+832,276,27 November,False,4AM
+833,277,5CM,False,4AM
+834,278,8E88,False,4AM
+835,279,ausshop,False,4PM
+836,28,Bebe,False,4PM
+837,280,Crocs,False,4AM
+838,281,Doitung Lifestyles,False,4PM
+839,282,French Connection,False,4AM
+840,283,Fix&Wash - 4AM,True,4AM
+841,284,Chalachol,False,4AM
+842,285,Goose,False,4PM
+843,286,Harley St.Hair Centre,False,4PM
+844,287,Izod,False,4PM
+845,288,Kantana Studio,False,4AM
+846,289,Lucky Brand Jean,False,4PM
+847,29,Because I Like It,False,4PM
+848,290,Mathematics,False,4AM
+849,291,New Balance,False,4AM
+850,292,Nirunda Clinic,False,4PM
+851,293,Olanor (ปิด),False,4AM
+852,294,Pedz,False,4AM
+853,295,Pepsi Jeans,False,4AM
+854,296,Proclean,True,4AM
+855,297,Red Mango,False,4AM
+856,298,Singha Life - 4AM,True,4AM
+857,299,Stellaluna,False,4PM
+858,30,Bel,False,4AM
+859,300,Steve Madden,False,4PM
+860,301,Tipayaphongpoosanaphong,False,4AM
+861,302,Yamaha music Square,False,4PM
+862,303,Viz Card,True,4AM
+863,304,G2000,False,4AM
+864,305,www.izzue.com,False,4AM
+865,306,JNBY,False,4AM
+866,307,FCUK,False,4PM
+867,308,Charriol Boutique,False,4PM
+868,309,Leather Goods & Accessories Sale up to 70% (สินค้า,False,4AM
+869,31,Benja Collection,False,4PM
+870,310,8 1/2 ( eight and a half ),True,4AM
+871,311,GEOX,False,4PM
+872,312,The Travelstore,False,4PM
+873,313,North Face,False,4PM
+874,314,Starbucks Coffee (4AM),True,4AM
+875,315,@Shop,False,4PM
+876,316,Starbucks Coffee - 4PM,True,4PM
+877,317,SHOP MARATON,False,4AM
+878,318,Wonder Anatomie - 4AM,True,4AM
+879,319,REEBOK,False,4PM
+880,32,Better Vision,False,4PM
+881,320,The Space Bihc,False,4PM
+882,321,Duet ,False,4AM
+883,322,Other,False,st
+884,323,SIBLING,False,4AM
+885,324,Make Up Store,False,4AM
+886,325,Barbecue Plaza,False,4AM
+887,326,Dsquard,False,4AM
+888,327,Mob.F,False,4AM
+889,328,The Barbecue Plaza,False,4AM
+890,329,T42,False,4PM
+891,33,Billabong,False,4AM
+892,330,White Cafe XS,False,4AM
+893,331,Precision Time,False,4PM
+894,332,77th เซเว่นตี้เซเว่น,False,4AM
+895,333,Kloset Etcetera - 4AM,True,4AM
+896,334,K-swiss,False,4AM
+897,335,Adidas Altilier (ปิด),False,4AM
+898,336,Adidas SPC Premium (ปิด),False,4AM
+899,337,Adidas Silver (ปิด),False,4AM
+900,338,PM-Oasis*,False,Oasis
+901,339,Watch Park-Oasis*,False,Oasis
+902,34,Black Canyon,False,4AM
+903,340,G Factory,True,4AM
+904,341,Painkiller,True,4AM
+905,342,De Pil	,False,4AM
+906,343,Playtown	,False,4PM
+907,344,It's 9 a.m.,False,4AM
+908,345,It's 9 a.m.,False,4AM
+909,346,Strip&Browhaus,False,4PM
+910,347,Marc by Marc Jacob,False,4PM
+911,348,Dusk Till Dawn,False,4AM
+912,349,Beauty Park - Oasis,False,Oasis
+913,35,Bloom,False,4AM
+914,350,Top Thai Oasis.,False,Oasis
+915,351,Dressing room Oasis.,False,Oasis
+916,352,Switch,False,4AM
+917,353,AB-NORMAL,False,4AM
+918,354,Another f.c.k.,False,4AM
+919,355,Smashbox,False,4AM
+920,356,MADAME TUSSAUDS,False,4PM
+921,357,Kiehl's,False,4AM
+922,358,Charles & Keith,True,4AM
+923,359,Pandora,False,4AM
+924,36,Bluecup e.b.b. f.l.o.,False,4AM
+925,360,Club 21,False,4PM
+926,361,VMV Hypoallergenics Oasis.,False,Oasis
+927,362,YVES ROCHER Oasis.,False,Oasis
+928,363,MTI - Oasis*,False,Oasis
+929,364,KIEHL'S Oasis.,False,Oasis
+930,365,SMASH BOX Oasis.,False,Oasis
+931,366,Yeah!,False,4PM
+932,367,What for,False,4AM
+933,368,COMME PLAYBOX  (4PM),False,4PM
+934,369,Bobbi Brown (4AM),True,4AM
+935,37,Body Shape,False,4AM
+936,370,BeautyMaxx Oasis.,False,Oasis
+937,371,Skin Food - Oasis*,False,Oasis
+938,372,Bloom Oasis.,False,Oasis
+939,373,Crabtree & Evelyn Oasis*,False,Oasis
+940,374,Laneige Oasis.,False,Oasis
+941,375,Red Earth Oasis.,False,Oasis
+942,376,Minerva Clinic,False,4PM
+943,377,Evaime Shabu Shabu,False,4PM
+944,378,Kazokutei,False,4PM
+945,379,Cho Muang Restaurant ช่อม่วง (4PM),False,4PM
+946,38,Boots (4AM),False,4AM
+947,380,Eye Bright,False,4PM
+948,381,Hair@Nail - Oasis*,False,Oasis
+949,382,Au bon Pain Oasis,False,Oasis
+950,383,Yves Rocher - Oasis*,False,Oasis
+951,384,Asia Books Oasis*,False,Oasis
+952,385,Swatch Oasis.,False,Oasis
+953,386,Nanmeebooks - Oasis*,False,Oasis
+954,387,Phu Fa -  Oasis*,False,Oasis
+955,388,Wangwan (วังแว่น) -  Oasis*,False,Oasis
+956,389,Better Vision หอแว่น Oasis*,False,Oasis
+957,39,Boots (4PMC),False,4PM
+958,390,.LIFE Oasis*,False,Oasis
+959,391,Samsonite  Oasis.,False,Oasis
+960,392,Harley St Hair Centre Oasis*,False,Oasis
+961,393,Savoey Rastaurant เสวย Oasis.,False,Oasis
+962,394,Mashiso Oasis.,False,Oasis
+963,395,kenji,False,4PM
+964,396,Cho Muang Restaurant ช่อม่วง,False,4PM
+965,397,Wasabi ,False,4PM
+966,398,TISSOT Oasis.,False,Oasis
+967,399,Jaspal - Oasis*,False,Oasis
+968,4,"F" Food For Fun,False,4AM
+969,40,Bossini,False,4AM
+970,400,Esprit - Oasis*,False,Oasis
+971,401,Chalies&Keith - Oasis*,False,Oasis
+972,402,CAP-Oasis*,False,Oasis
+973,403,MU-I Oasis.,False,Oasis
+974,404,Ruean Ploy เรือนพลอย Oasis*,False,Oasis
+975,405,NIKE Oasis.,False,Oasis
+976,407,Body Shape Oasis.,False,Oasis
+977,408,Bronze Days Spa Oasis*,False,Oasis
+978,409,Clinique - Oasis*,False,Oasis
+979,41,Boulevard,False,4AM
+980,410,BOSE Oasis*,False,Oasis
+981,411,Edukids Planet Oasis,False,Oasis
+982,412,Enlighten Yoga - Oasis*,False,Oasis
+983,415,Dhipaya Insurance บจม.ทิพยประกันภัย Oasis*,False,Oasis
+984,416,Healthy Max - Oasis*,False,Oasis
+985,417,Proud - Oasis*,False,Oasis
+986,418,NOKIA Oasis.,False,Oasis
+987,42,Cafe' de Tu,False,4AM
+988,420,Auntie Anne's - Oasis*,False,Oasis
+989,421,A&W - Oasis,False,Oasis
+990,422,Breard papa's - Oasis,False,Oasis
+991,424,F Fashion,False,4AM
+992,425,CKV Photo Digital จักรวาลโฟโต้ดิจิตอล Oasis*,False,Oasis
+993,426,Villains S.F. Oasis.,False,Oasis
+994,427,The Travel Store - Oasis*,False,Oasis
+995,428,Net Design Oasis*,False,Oasis
+996,429,Clay work Oasis*,False,Oasis
+997,43,Castro,False,4AM
+998,430,PV Tennis Oasis.,False,Oasis
+999,431,Jintakanit จินตคณิต - Oasis,False,Oasis
+1000,432,King Math - Oasis*,False,Oasis
+1001,433,New Education World  Oasis*,False,Oasis
+1002,434,.LIFE (4PM),False,4PM
+1003,435,EL RICH Oasis,False,Oasis
+1004,436,Elvira - Oasis,False,Oasis
+1005,437,Hair Decor  Oasis*,False,Oasis
+1006,438,House of Stamps - Oasis*,False,Oasis
+1007,439,KFC - Oasis,False,Oasis
+1008,44,CC-OO - 4AM,True,4AM
+1009,440,Melrose - Oasis,False,Oasis
+1010,441,MR.FONO - Oasis*,False,Oasis
+1011,442,Modern Air  Oasis*,False,Oasis
+1012,443,MY INU (มาย-อินุ) - Oasis,False,Oasis
+1013,444,Nitipon Clinic - Oasis,False,Oasis
+1014,445,SE-ED Book Center - Oasis* ,False,Oasis
+1015,446,Sugracude - Oasis,False,Oasis
+1016,447,Thomas Design - Oasis,False,Oasis
+1017,448,Zojirushi - Oasis,False,Oasis
+1018,449,Doykam (ดอยคำ) - Oasis* ,False,Oasis
+1019,45,CD Warehouse,False,4PM
+1020,450,ENG CHAN  Amphawa - Oasis,False,Oasis
+1021,451,Wantopcharuan (แว่นท็อปเจริญ) - Oasis* ,False,Oasis
+1022,452,Yuna,False,4AM
+1023,453,KEEN ,False,4AM
+1024,454,Pedninjinda - Oasis ,False,Oasis
+1025,455,Aldo - Oasis*,False,Oasis
+1026,456,All About Accessories - Oasis,False,Oasis
+1027,457,Belda - Oasis,False,Oasis
+1028,458,Billabong - Oasis ,False,Oasis
+1029,459,Crocs - Oasis*,False,Oasis
+1030,46,Charriol Boutique,False,4PM
+1031,460,Deal stand by me - Oasis,False,Oasis
+1032,461,ESP - Oasis*,False,Oasis
+1033,462,FLY Now III  - Oasis*,False,Oasis
+1034,463,FQ&L - Oasis,False,Oasis
+1035,464,GSP - Oasis*,False,Oasis
+1036,465,Guy Laroche - Oasis*,False,Oasis
+1037,466,Heavy Shoes - Oasis*,False,Oasis
+1038,467,Herbs&Heal  - Oasis,False,Oasis
+1039,468,Kipling - Oasis* ,False,Oasis
+1040,469,Lyn around - 4AM,True,4AM
+1041,47,Cheeze Studio,False,4AM
+1042,470,LACOSTE - Oasis*,False,Oasis
+1043,471,HARNN - Oasis,False,Oasis
+1044,472,SABINA - Oasis*,False,Oasis
+1045,473,THE NEXT - Oasis*,False,Oasis
+1046,474,VNC - Oasis*,False,Oasis
+1047,475,WHITTARD OF CHELSEA,False,Oasis
+1048,476,Workshop - Oasis,False,Oasis
+1049,477,X'ACT - Oasis*,False,Oasis
+1050,478,YEAH - Oasis*,False,Oasis
+1051,479,ADIDAS - Oasis,False,Oasis
+1052,48,Cheeze Studio,False,4AM
+1053,481,AUSSINO - Oasis*,False,Oasis
+1054,482,BOHEMIA CRYSTAL - Oasis*,False,Oasis
+1055,483,COLOR ME PRETTY - Oasis*,False,Oasis
+1056,484,EYE Class - Oasis*,False,Oasis
+1057,485,MAX IT - Oasis ,False,Oasis
+1058,486,BABY BASKET - Oasis,False,Oasis
+1059,487,BANGKOK DANCE PARADISE - Oasis* ,False,Oasis
+1060,488,BUONO - Oasis,False,Oasis
+1061,489,CAFE DE NAIL - Oasis*,False,Oasis
+1062,49,Chocoholic,False,4AM
+1063,490,COFFEE WORLD - Oasis ,False,Oasis
+1064,491,Bell Esthetics Center - Oasis*,False,Oasis
+1065,492,Bar B Q Plaza & จุ่มแซบฮัท - Oasis ,False,Oasis
+1066,493,Chompoodang - Oasis* ,False,Oasis
+1067,494,E4AMa Bistro - Oasis* ,False,Oasis
+1068,495,Evaime Shabu Shabu - Oasis*,False,Oasis
+1069,496,Grape Siam - Oasis* ,False,Oasis
+1070,497,Global Art - Oasis* ,False,Oasis
+1071,498,Haagen - Dazs - Oasis ,False,Oasis
+1072,499,Hokkaido Soft,False,Oasis
+1073,5,Gilles Caffier,False,4PM
+1074,50,CitiBank Di4AMovery Exclusive Lounge,False,4PM
+1075,500,ICT 4AMhool - Oasis*,False,Oasis
+1076,501,IBERRY - Oasis,False,Oasis
+1077,502,KIKI - Oasis*,False,Oasis
+1078,503,Kolor me Art 4AMhool & Play - Oasis* ,False,Oasis
+1079,504,Kazokutei - Oasis* ,False,Oasis
+1080,506,Mathnasium - Oasis*,False,Oasis
+1081,507,Lagrace Clinic ,False,Oasis
+1082,508,Milk Bar - Oasis,False,Oasis
+1083,509,Mantra de la linda - Oasis ,False,Oasis
+1084,51,CK Calvin Klein,False,4AM
+1085,510,OKLS - Oasis*,False,Oasis
+1086,511,Orchard - Oasis,False,Oasis
+1087,512,OVO - Oasis*,False,Oasis
+1088,513,Passion&Pride - Oasis ,False,Oasis
+1089,514,Phonics 1st - Oasis*,False,Oasis
+1090,515,Real Gems - Oasis* ,False,Oasis
+1091,516,The Waxing Bar - Oasis* ,False,Oasis
+1092,517,TO DIE FOR - Oasis,False,Oasis
+1093,518,T- DED - Oasis,False,Oasis
+1094,519,Well to do - Oasis*,False,Oasis
+1095,52,Club 21 Collectibles,False,4PM
+1096,520,Chor Moung - Oasis*,False,Oasis
+1097,521,Talalum Tumtum (ตะละลำตำตำ) - Oasis,False,Oasis
+1098,522,Thongnoppakun (ทองนพคุณ) - Oasis,False,Oasis
+1099,523,Pew Dee Clinic (ผิวดี คลินิก) - Oasis*,False,Oasis
+1100,524,Sawaddee Bangkok (สวัสดีบางกอก) - Oasis,False,Oasis
+1101,525,Laem Cha-Reon - Oasis*,False,Oasis
+1102,526,Rosniyom - Oasis ,False,Oasis
+1103,527,Shabushi - Oasis ,False,Oasis
+1104,528,Hua seng hong - Oasis *,False,Oasis
+1105,529,Babies Genius -Oasis*,False,Oasis
+1106,53,Coca Suki Restaurant,True,4AM
+1107,530,Bmas Music Academy - Oasis* ,False,Oasis
+1108,532,INLINGUA - Oasis*,False,Oasis
+1109,533,BANTHAI CYSTAL - Oasis,False,Oasis
+1110,537,Siam Utopia Gems - Oasis*,False,Oasis
+1111,538,AIIZ - Oasis* ,False,Oasis
+1112,539,Garden Fly Now III - Oasis*,False,Oasis
+1113,54,Collector's World,False,4PM
+1114,540,Chaho - Oasis ,False,Oasis
+1115,541,Toonzone - Oasis ,False,Oasis
+1116,542,Oakley by ELEMENT 72 - Oasis* ,False,Oasis
+1117,543,Brain 4AMhool - Oasis*,False,Oasis
+1118,544,Sound Matters,False,4PM
+1119,545,Moulin,False,4PM
+1120,546,Prestige Gems - Oasis* ,False,Oasis
+1121,547,AKA Wellness Shop - Oasis*,False,Oasis
+1122,549,City Chain - Oasis* ,False,Oasis
+1123,55,Converse (ย้ายไป4PM),False,4AM
+1124,550,Optical88 - Oasis*,False,Oasis
+1125,551,Digital 2 home - Oasis*,False,Oasis
+1126,552,Hush Puppies - Oasis* ,False,Oasis
+1127,553,I-Cartoon - Oasis*,False,Oasis
+1128,554,Krungtheppragunpai กรุงเทพประกันภัย - Oasis* ,False,Oasis
+1129,555,Paradise Cineplex - Oasis* ,False,Oasis
+1130,556,Yamaha music 4AMhool - (ร.ร.ดนตรีสยามกลการ) Oasis*,False,Oasis
+1131,557,A.I.S.B - Oasis* ,False,Oasis
+1132,558,FUKU,False,4PM
+1133,559,Jour De Nails,False,4PM
+1134,56,CPS Cafe',False,4AM
+1135,560,Mongkolnalika - Oasis*,False,Oasis
+1136,561,Suwirun Tea Thai (สุวิรุฬห์ชาไทย) - Oasis*,False,Oasis
+1137,562,C.Y. Water System - Oasis*,False,Oasis
+1138,563,Guess - Oasis,False,Oasis
+1139,565,Queen of Casual - Oasis*,False,Oasis
+1140,566,Seri Dental Care - Oasis* ,False,Oasis
+1141,567,Your Room - Oasis* ,False,Oasis
+1142,568,Mama&Baby - Oasis,False,Oasis
+1143,569,Sense Clinic - Oasis* ,False,Oasis
+1144,57,CPS Chaps,True,4AM
+1145,570,Piranya - Oasis*,False,Oasis
+1146,571,Baan Sukkapharb D - Oasis *,False,Oasis
+1147,572,Tokiya,False,4PM
+1148,573,Sweet Cake,False,4AM
+1149,574,MILIN,False,4AM
+1150,575,Thong Nopphakhun ทองนพคุณ,False,4PM
+1151,576,ICE Watch,False,4AM
+1152,577,Vizcard Oasis,False,Oasis
+1153,578,Cinny Cinnamon - Oasis,False,Oasis
+1154,579,Sabaijai - Oasis*,False,Oasis
+1155,58,Currency Exchange,False,4AM
+1156,580,Play Anime - Oasis,False,Oasis
+1157,581,Sparsha Slimming - Oasis*,False,Oasis
+1158,582,Paradise Gym - Oasis*,False,Oasis
+1159,583,Takoza - Oasis*,False,Oasis
+1160,584,Pingu's English 4AMhool - Oasis,False,Oasis
+1161,585,C-Colon - Oasis,False,Oasis
+1162,586,Speed Computer - Oasis,False,Oasis
+1163,588,Central Drugs House - Oasis*,False,Oasis
+1164,589,Hi Style Hifi - Oasis*,False,Oasis
+1165,59,D. Squared,False,4AM
+1166,590,PC Rom - Oasis,False,Oasis
+1167,591,Levi's - Oasis,False,Oasis
+1168,592,Siam Laser Clinic - Oasis*,False,Oasis
+1169,593,Be Organic - Oasis,False,Oasis
+1170,594,C&D - Oasis*,False,Oasis
+1171,595,niiq,False,4PM
+1172,596,Siam Laser Clinic,False,4PM
+1173,597,AGNES.B,False,4PM
+1174,598,Accessorize,False,4AM
+1175,599,27 SPEED - Oasis*,False,Oasis
+1176,6,20 Nail Studio,False,4PM
+1177,60,Dapper Exclusive,False,4AM
+1178,600,TV direct - Oasis*,False,Oasis
+1179,601,Shoe Cafe - Oasis,False,Oasis
+1180,602,Sport world - Oasis*,False,Oasis
+1181,603,Maesriruen (แม่ศรีเรือน) - Oasis*,False,Oasis
+1182,604,S&P - Oasis,False,Oasis
+1183,605,Sony Vaio ,False,Oasis
+1184,607,Helen Doron - Oasis* ,False,Oasis
+1185,608,VIVO Music Academy - Oasis*,False,Oasis
+1186,609,C-Art -Oasis ,False,Oasis
+1187,61,Dapper Footwear Shop,False,4AM
+1188,610,I-4AMI (ศูนย์วิทยาศาสตร์ i-4AMi) - Oasis ,False,Oasis
+1189,611,P&P Salon - Oasis,False,Oasis
+1190,612,ACER - Oasis ,False,Oasis
+1191,613,Banana IT - Oasis,False,Oasis
+1192,614,Strom London - Oasis ,False,Oasis
+1193,615,SPN Music 4AMhool - Oasis*,False,Oasis
+1194,616,Season Creative Art Academy - Oasis,False,Oasis
+1195,617,Olivie Cafe ,False,Oasis
+1196,618,Sony Center - Oasis* ,False,Oasis
+1197,619,His&Her Shop - Oasis*,False,Oasis
+1198,62,Deco Home Entertainment,False,4PM
+1199,620,Quality Kids - Oasis*,False,Oasis
+1200,621,Nova Education Center - Oasis*,False,Oasis
+1201,622,One To One Center - Oasis ,False,Oasis
+1202,623,ESPADA - Oasis*,False,Oasis
+1203,624,Inkman - Oasis*,False,Oasis
+1204,625,Lenovo by Softworld - Oasis*,False,Oasis
+1205,626,Magnifique et moi - Oasis ,False,Oasis
+1206,627,Toshiba by Softworld - Oasis*,False,Oasis
+1207,628,YUMSAAP (ยำแซบ) - Oasis*,False,Oasis
+1208,629,Basic House - Oasis ,False,Oasis
+1209,63,Diamond Shine,False,4AM
+1210,630,Double A,False,4AM
+1211,631,TOM N TOMS,False,4AM
+1212,632,Philips - Oasis*,False,Oasis
+1213,634,Piyanas - Oasis,False,Oasis
+1214,635,Samsung MultiPro- Oasis*,False,Oasis
+1215,636,His Shop - Oasis*,False,Oasis
+1216,637,Hair@ Nail (4AM),True,4AM
+1217,638,Coffeol,False,4PM
+1218,64,Die Blumen -Florist-,False,4PM
+1219,640,Softworld - Oasis*,False,Oasis
+1220,641,Desjoyaux - Oasis*,False,Oasis
+1221,642,Cushe - Oasis*,False,Oasis
+1222,643,Leather&Shoes - Oasis*,False,Oasis
+1223,644,Mother & Child - Oasis*,False,Oasis
+1224,645,iStudio Com7 - Oasis,False,Oasis
+1225,646,Mu4AMhima (ห้องสูทมัชฌิมา) - Oasis,False,Oasis
+1226,647,NYLA - Oasis*,False,Oasis
+1227,648,The Save 50% - Oasis*,False,Oasis
+1228,649,Magnano service Network  - Oasis,False,Oasis
+1229,65,Diesel (4PM),False,4PM
+1230,650,TW STEEL - Oasis ,False,Oasis
+1231,651,Praphatsaraporn (ประภัสราภรณ์) - Oasis* ,False,Oasis
+1232,653,Dapper Exclusive Shop - Oasis*,False,Oasis
+1233,654,Lyn - Oasis*,False,Oasis
+1234,655,Naiin (นายอินทร์) - Oasis*,False,Oasis
+1235,656,S-MART - Oasis,False,Oasis
+1236,657,Diamond&Gems - Oasis,False,Oasis
+1237,658,Diamond Ann by เพชรคุณหลวง - Oasis,False,Oasis
+1238,659,Master  Piece - Oasis*,False,Oasis
+1239,66,Di4AMovery Club,False,4PM
+1240,660,MixMatch Jewelry - Oasis,False,Oasis
+1241,661,Thanyaporn Jewelry - Oasis,False,Oasis
+1242,662,WALAIPORNMANEE - Oasis*,False,Oasis
+1243,663,Na Rossukon Jewelry (ณ รสสุคนธุ์ จิวเวลรี่) - Oasis,False,Oasis
+1244,664,Aurora (ห้างเพชรทองออโรร่า)- Oasis,False,Oasis
+1245,665,B-Fash - Oasis,False,Oasis
+1246,666,Mouse Group - Oasis,False,Oasis
+1247,667,Simple IT - Oasis*,False,Oasis
+1248,668,SSP - Oasis*,False,Oasis
+1249,67,DKNY,False,4PM
+1250,670,Red sun,False,4PM
+1251,671,degree to,False,4PM
+1252,672,FRED PERRY,False,4PM
+1253,673,Jelly Dreams (4PM),False,4PM
+1254,674,Garden Fly Now III,False,4AM
+1255,675,Wrangler - Oasis,False,Oasis
+1256,676,La senza - Oasis,False,Oasis
+1257,677,Lyn around - Oasis*,False,Oasis
+1258,678,Member Get Member - Oasis,False,Oasis
+1259,679,Member Get Member - 4P,False,4AM
+1260,68,Dockers,False,4PM
+1261,680,World Camera - Oasis*,False,Oasis
+1262,681,C2 By Chuchai - Oasis,False,Oasis
+1263,682,Viet Cuisine - Oasis,False,Oasis
+1264,683,BAO BAO (4PM),False,4PM
+1265,684,Lee - (Oasis)*,False,Oasis
+1266,685,Pet Corner Grooming & Spa - Oasis*,False,Oasis
+1267,686,Pet Club - Vet Clinic - Oasis*,False,Oasis
+1268,687,Watch Park - 4PM,False,4PM
+1269,688,Jelly Dream,False,4PM
+1270,689,For Dog Salon - Oasis*,False,Oasis
+1271,69,DP. Company Footwear,False,4AM
+1272,690,G Factory - Oasis*,False,Oasis
+1273,691,Black Jack,False,4PM
+1274,692,Jindarat Gold & Jewelry - ห้างเพชรทองจินดารัตน์,False,Oasis
+1275,693,The International Academy of Magic -Oasis*,False,Oasis
+1276,694,Boomerang,False,4PM
+1277,695,ICE Planet,False,4PM
+1278,696,Shabushi - Oasis*,False,Oasis
+1279,697,Shoe Bar -Oasis*,False,Oasis
+1280,698,Red Mango - Oasis,False,Oasis
+1281,699,Murad,False,4PM
+1282,7,Fri 27 Nov.,True,4AM
+1283,70,DTAC,False,4PM
+1284,700,Manoon Petshop มนูญ เพ็ทช็อป - Oasis*,False,Oasis
+1285,701,My Rabbit Land - Oasis*,False,Oasis
+1286,702,Kidz Sportland - Oasis-,False,Oasis
+1287,703,Puppy Dear - Oasis -,False,Oasis
+1288,704,Fin Chom Pla -Oasis*,False,Oasis
+1289,705,Space - Oasis*,False,Oasis
+1290,706,K.A. Jewelry - 4PM,False,4PM
+1291,707,Pet Points -Oasis*,False,Oasis
+1292,708,ทองขาวฟาร์ม -Oasis*,False,Oasis
+1293,709,Pet Perfect -Oasis*,False,Oasis
+1294,71,E.G.G.,False,4PM
+1295,710,Doggie Licious-Oasis*,False,Oasis
+1296,711,Hiso Dog Petshop -Oasis*,False,Oasis
+1297,712,Ka,False,4PM
+1298,713,Crocs (4PM),False,4PM
+1299,714,Proud Gems,False,4PM
+1300,715,British Council - Oasis*,False,Oasis
+1301,716,The 9 Cafe ,False,4PM
+1302,717,Footwork Noir,False,4PM
+1303,718,Fiddle Day-Oasis*,False,Oasis
+1304,719,Miss Sixty Energie,False,4PM
+1305,72,Ecko Unltd.,False,4AM
+1306,720,NUNU -Oasis*,False,Oasis
+1307,721,4PM Titanium Card ต่ออายุฟรี,False,4PM
+1308,722,24 INK - Oasis*,False,Oasis
+1309,723,Magnum Cafe (ปิด),False,4AM
+1310,724,Steve Madden - 4AM,True,4AM
+1311,725,Mont Blanc Sweet Cafe,False,4AM
+1312,726,nine seven nine (ปิด),False,4AM
+1313,727,In Seconda (ปิด),False,4AM
+1314,728,The Wonder Room - 4AM,True,4AM
+1315,729,The Selected - 4AM,True,4AM
+1316,73,edc by esprit,False,4AM
+1317,730,Au Bon Pain (4AM),True,4AM
+1318,731,Chalachol - 4AM,True,4AM
+1319,732,Another f.c.k (ปิด),False,4AM
+1320,733,b+ab,False,4AM
+1321,734,Bi Chalai,True,4AM
+1322,735,Bliss,False,4AM
+1323,736,Curated by Ek Thongprasert,False,4AM
+1324,737,Dapper Footware,False,4AM
+1325,738,Thann & Satiwa,False,4AM
+1326,739,The Little Pink Rabbit,False,4AM
+1327,74,EGV Cinemas (Grand EGV),False,4PM
+1328,740,SUPER - 4AM,True,4AM
+1329,741,Something Boudoir,False,4AM
+1330,742,Cafe Marmalade,False,4AM
+1331,743,Petite Audrey - 4AM,True,4AM
+1332,744,Mr. Tango,True,4AM
+1333,745,Ravens Heaven,False,4AM
+1334,746,Big Apple n More,False,4AM
+1335,747,Rajdhavee Clinic,False,4AM
+1336,748,Bar B Q Plaza,True,4AM
+1337,749,Love Mo4AMhino,False,4AM
+1338,75,Enconcept,False,4PM
+1339,750,Melt Me,False,4AM
+1340,751,On The Table,True,4AM
+1341,752,Animal House,False,4AM
+1342,753,Perfect Art-Oasis*,False,Oasis
+1343,754,SE-ED Learning Center -Oasis*,False,Oasis
+1344,755,Groom Lounge - Oasis*,False,Oasis
+1345,756,TRUCCO,False,4AM
+1346,757,Insight Kids - Oasis*,False,Oasis
+1347,758,TRUCCO - Oasis*,False,Oasis
+1348,759,Kiehl's - 4AM,True,4AM
+1349,76,EQ:IQ,False,4PM
+1350,760,Mrs.Fono,False,4AM
+1351,761,Blue Brother (ปิด),False,4AM
+1352,762,Let Them Eat Cake,False,4AM
+1353,763,Napaspa,False,4PM
+1354,764,RUDY Project - Oasis*,False,Oasis
+1355,765,Pang Torsuwan (ปิด),False,4AM
+1356,766,Zoo Phonics 4AMhool - Oasis*,False,Oasis
+1357,767,Jericho - Oasis*,False,Oasis
+1358,768,ORIGINS,False,4AM
+1359,769,Shu Uemura (4AM),False,4AM
+1360,77,Equinox Extreme (4PM),False,4AM
+1361,770,PEARL - Oasis*,False,Oasis
+1362,771,EARTHS - Oasis*,False,Oasis
+1363,772,Mrs.Fields - Oasis*,False,Oasis
+1364,773,Naturita Organic Spa,False,4PM
+1365,774,Enlighten Yoga - Oasis,False,Oasis
+1366,775,Models Own,False,4AM
+1367,776,Dapper Access (4PM) (ย้ายมา 4AM เมื่อ 6.5.58),True,4AM
+1368,777,edc,False,4AM
+1369,778,ปรับปรุงคะแนน,False,Oasis
+1370,779,PIERIS SKIN VARIETY - Oasis*,False,Oasis
+1371,78,Esprit (ปิด),False,4AM
+1372,780,Pronique - Oasis,False,Oasis
+1373,781,ALGY Oasis,False,Oasis
+1374,782,Baskin Robbins Oasis,False,Oasis
+1375,783,Bonjour Oasis,False,Oasis
+1376,784,Boots Oasis,False,Oasis
+1377,785,Burger King Oasis,False,Oasis
+1378,786,Daiso Oasis,False,Oasis
+1379,787,Dermcard Clinic Oasis,False,Oasis
+1380,788,Dunkin Donuts Oasis,False,Oasis
+1381,789,Expert Watch Repair Center Oasis,False,Oasis
+1382,79,Etude House,False,4AM
+1383,790,Fuji Oasis,False,Oasis
+1384,791,Fuku Mutcha Oasis,False,Oasis
+1385,792,Hokkaido Milk Oasis,False,Oasis
+1386,793,Lemon Farm Oasis,False,Oasis
+1387,794,Lock & Lock Oasis,False,Oasis
+1388,795,Madam Heng Oasis,False,Oasis
+1389,796,Mamalade Farm Oasis,False,Oasis
+1390,797,Mark Gems Oasis,False,Oasis
+1391,798,Mister Sky -Oasis,False,Oasis
+1392,799,MIster Sow - Oasis,False,Oasis
+1393,8,48 Street,False,4AM
+1394,80,Eye Club,False,4AM
+1395,800,MK Restaurants - Oasis,False,Oasis
+1396,801,Mr.Shake - Oasis,False,Oasis
+1397,802,MunKong Gadget - Oasis,False,Oasis
+1398,803,Secondhand Brandname - Oasis,False,Oasis
+1399,804,Secret Recipe - Oasis,False,Oasis
+1400,805,Smile Land Tour - Oasis,False,Oasis
+1401,806,Swensen's - Oasis,False,Oasis
+1402,807,The Amazon - Oasis,False,Oasis
+1403,808,The pizza Company - Oasis,False,Oasis
+1404,809,Villa Market - Oasis,False,Oasis
+1405,81,Fai Sor Kam,False,4PM
+1406,810,Wash Me - Oasis,False,Oasis
+1407,811,Yayoi - Oasis,False,Oasis
+1408,812,เจ้าฟลุ๊ค จิวเวอรี่ - Oasis,False,Oasis
+1409,813,ตำรับไทย - Oasis,False,Oasis
+1410,814,วราภรณ์ ซาลาเปา - Oasis,False,Oasis
+1411,815,9 Brandname - Oasis,False,Oasis
+1412,816,9 Naliga - Oasis,False,Oasis
+1413,817,Cut & Curl - Oasis,False,Oasis
+1414,818,Export Outlet - Oasis,False,Oasis
+1415,819,GAP - Oasis,False,Oasis
+1416,82,Fantasia (4PM),False,4PM
+1417,820,Homepro - Oasis,False,Oasis
+1418,821,Oriental Princess - Oasis,False,Oasis
+1419,822,Seiko - Oasis,False,Oasis
+1420,823,Big Camera - Oasis*,False,Oasis
+1421,824,JIB Computer - Oasis,False,Oasis
+1422,825,Starbucks Coffee - Oasis*,False,Oasis
+1423,826,TRUE - Oasis,False,Oasis
+1424,827,DTAC - Oasis,False,Oasis
+1425,828,AIS - Oasis,False,Oasis
+1426,829,TOTO - Oasis,False,Oasis
+1427,83,Farfalla,False,4AM
+1428,830,Berina - Oasis,False,Oasis
+1429,831,Coco Ichibanya - Oasis,False,Oasis
+1430,832,Coffee beans by dao - Oasis,False,Oasis
+1431,833,Hachiban Ramen - Oasis,False,Oasis
+1432,834,KUMON - Oasis,False,Oasis
+1433,835,OOTOYA - Oasis,False,Oasis
+1434,836,Pancake Cafe - Oasis,False,Oasis
+1435,837,Secret Garden - Oasis,False,Oasis
+1436,838,Sizzler - Oasis,False,Oasis
+1437,839,Wine Coner - Oasis,False,Oasis
+1438,84,Fermob by Deesawat,False,4PM
+1439,840,เจียงขนมจีนบุฟเฟต์,False,Oasis
+1440,841,AUA - Oasis,False,Oasis
+1441,842,Melody Music - Oasis*,False,Oasis
+1442,843,Daikori,False,4AM
+1443,844,Another Alternative,False,4AM
+1444,845,The Coffee Bean & Tea Leaf - Oasis*,False,Oasis
+1445,846,DKNY Jeans,False,4PM
+1446,847,Sephora,True,4AM
+1447,848,Estee Lauder,True,4AM
+1448,849,Her Shop -Oasis,False,Oasis
+1449,85,Fly Now III - 4AM,True,4AM
+1450,850,Black Barrett,False,4PM
+1451,851,Cath Kidston,False,4AM
+1452,852,Penguin Gydon - Oasis*,False,Oasis
+1453,853,A/X Armani Exchange 4AM,True,4AM
+1454,854,Flight001 (4PM),False,4PM
+1455,855,Mrs.Fields - 4AM,False,4AM
+1456,856,Brainy Bright Oasis*,False,Oasis
+1457,857,Baanvichakorn 4AMhool - Oasis Haha*,False,Oasis
+1458,858,บ้านวิชากร - Oasis*,False,Oasis
+1459,859,Mathlogik - Oasis*,False,Oasis
+1460,86,Fuji - 4AM,True,4AM
+1461,860,Wolfkind,False,4AM
+1462,861,Perfume Bar,False,4AM
+1463,862,ABCD English -Oasis Haha*,False,Oasis
+1464,863,C4AM - Oasis*,False,Oasis
+1465,864,World Study Center-Oasis Haha*,False,Oasis
+1466,865,Shine Jewelry,False,4PM
+1467,866,Long Kin Doo - Oasis*,False,Oasis
+1468,867,Kiss me doll,False,4AM
+1469,868,Gin & Milk - 4AM,True,4AM
+1470,869,Rotsaniyom,True,4AM
+1471,87,G2000,False,4AM
+1472,870,Yamaha Music 4AMhool New (รร ดนตรีสยามกลการ) Oasis*,False,Oasis
+1473,871,CLUB DSN,False,4AM
+1474,872,I+D STYLE CAFE,False,4AM
+1475,873,ROTSANIYOM,False,4AM
+1476,874,Q Design and Play,True,4AM
+1477,875,HOB,False,4AM
+1478,876,Go Genius 4AMhool - Oasis*,False,Oasis
+1479,877,Bobbi Brown (4PM),False,4PM
+1480,878,DA+PP,True,4AM
+1481,879,Converse (4PM),False,4PM
+1482,88,Game Freaks,False,4AM
+1483,880,Nike,False,4PM
+1484,881,Beawelry - 4AM,True,4AM
+1485,882,Chai Gold Label,False,4AM
+1486,883,Bisous Bisous ,False,4AM
+1487,884,Food Republic - 4AM,True,4AM
+1488,885,Enconcept,False,4PM
+1489,886,Gift Card,True,4AM
+1490,887,VIZ Lounge,True,4AM
+1491,888,ARTINO - Oasis*,False,Oasis
+1492,889,Commit a Sin,False,4AM
+1493,89,Georges Rech,False,4PM
+1494,890,วลัยพรมณี - Oasis*,False,Oasis
+1495,891,Collectable,False,4AM
+1496,892,Pet Safari - Oasis*,False,Oasis
+1497,893,Shichida - Oasis*,False,Oasis
+1498,894,Commit a Sin,False,4AM
+1499,895,Mister Donut - Oasis*,False,Oasis
+1500,896,SUPER DRY - 4AM,True,4AM
+1501,897,PULL&BEAR - 4AM,True,4AM
+1502,898,School Food,False,4AM
+1503,899,Naraya,False,4PM
+1504,9,Acseine (KMA),False,4PM
+1505,90,Good Bear Home,False,4PM
+1506,900,Banana IT,False,4PM
+1507,901,True Coffee,False,4PM
+1508,902,Victoria's Secret - 4AM,True,4AM
+1509,903,Forever 21,False,4AM
+1510,904,Bath & Body Works,True,4AM
+1511,905,EDWIN,False,4AM
+1512,906,Havaianas,True,4AM
+1513,907,The Eye Bar,True,4AM
+1514,908,The Coffee Bean & Tea Leaf - 4AM,True,4AM
+1515,909,Lala Love - 4AM,True,4AM
+1516,91,Good Job (4PM),False,4PM
+1517,910,Blue Glue,False,4AM
+1518,911,Dak Galbi,True,4AM
+1519,912,Mr.Jones' Orphaanang,False,4AM
+1520,913,Somtamnua - 4AM,True,4AM
+1521,914,Sukishi Charcoal Grill - 4AM,True,4AM
+1522,915,Sukishi Buffet,False,4AM
+1523,916,Bonchon Chicken,True,4AM
+1524,917,Baanying Cafe & Meal,True,4AM
+1525,918,Coco Ichibanya,False,4AM
+1526,919,Le waffle,False,4AM
+1527,92,Good Mixer,True,4AM
+1528,920,Botanique Shop - Oasis,False,Oasis
+1529,921,Dairy Queen - Oasis,False,Oasis
+1530,922,MK Restaurant - Oasis,False,Oasis
+1531,923,Squeeze by Tipco - Oasis,False,Oasis
+1532,924,Watsons - Oasis,False,Oasis
+1533,925,มั่นคง แก็ตเจท - Oasis,False,Oasis
+1534,926,สุวรรณภูมิแพทย์ภัณฑ์ - Oasis,False,Oasis
+1535,927,เป็งกี่ - Oasis,False,Oasis
+1536,928,Seagull (ไทยสแตนเลสสตลีล),False,Oasis
+1537,929,Naraya - Oasis,False,Oasis
+1538,93,Greyhound Cafe',True,4AM
+1539,930,Dr.Battery,False,Oasis
+1540,931,True Shop - Oasis,False,Oasis
+1541,932,กาลนาน - Oasis,False,Oasis
+1542,933,เย็นตาโฟปิรันย่า - Oasis,False,Oasis
+1543,934,รสนิยม - Oasis,False,Oasis
+1544,935,Tut's Cafe - Oasis,False,Oasis
+1545,936,Play Chef,False,Oasis
+1546,937,Kidzoona&Molly Fantasy - Oasis,False,Oasis
+1547,938,LUXASIA,False,4PM
+1548,939,CMG,False,4PM
+1549,94,Greyhound Original,True,4AM
+1550,940,GROUND BREAKING,False,4PM
+1551,941,KSS - Oasis,False,Oasis
+1552,942,Amway,False,4PM
+1553,943,Le Waffle,False,4AM
+1554,944,CLUB21 Family Sale 15-17 May15,False,4AM
+1555,945,Tokyu 8 (Customer Service),False,Oasis
+1556,946,Tokyu 1 (Cosmetic 1),False,Oasis
+1557,947,Tokyu 2 (Lady's),False,Oasis
+1558,948,Tokyu 3 (Kid's),False,Oasis
+1559,949,Tokyu 4 (Sport),False,Oasis
+1560,95,H2O Plus,False,4AM
+1561,950,Tokyu 5 (Staionary),False,Oasis
+1562,951,Tokyu 6 (Cosmetic 2),False,Oasis
+1563,952,Tokyu 7 (Men's),False,Oasis
+1564,953,Emack&Bolio's,True,4AM
+1565,954,Samsung (Mobile),False,Oasis
+1566,955,Tokyu Outside,False,Oasis
+1567,956,Bricks 4 kidz - Oasis*,False,Oasis
+1568,957,Croissant  Taiyaki,False,4AM
+1569,958,Coffee Gallery,False,4AM
+1570,959,BE@RBRICK (pop up store 6-31 Jul15),False,4AM
+1571,96,Haagen-Dazs,False,4AM
+1572,960,Origins,False,4AM
+1573,961,Under Armour - 4AM,True,4AM
+1574,962,DA+PP Oasis,False,Oasis
+1575,963,Smart Travel,False,4AM
+1576,964,Heavy Selection,False,4AM
+1577,965,Jan Sport,False,4AM
+1578,966,Simple Son,False,4AM
+1579,967,Shiseido (4AM),False,4AM
+1580,968,Evianna Jewellery,False,4AM
+1581,969,Oishi Grand - Paragon,True,4PL
+1582,97,Habitat,False,4PM
+1583,970,XXI FOREVER,False,4AM
+1584,971,THINK Cafe,False,4AM
+1585,972,XXI FOREVER (2),False,4AM
+1586,973,OISHI Grand,False,4PL
+1587,974,A-very-wear,False,4AM
+1588,975,Converse (ย้ามา 4AM 6/5/58),False,4AM
+1589,976,Crocs (ย้ายมา 4AM 6/5/58),False,4AM
+1590,977,BAO BAO (ย้ายมา 4AM 6/5/58),False,4AM
+1591,978,DIESEL (ย้ายมา 4AM 6/5/58),False,4AM
+1592,979,DKNY Jeans,False,4AM
+1593,98,Habitat,False,4PM
+1594,980,Good Job (ย้ายมา 4AM เมื่อ 6/5/58),False,4AM
+1595,981,Propaganda (ย้ายมา 4AM เมื่อ 6.5.58),False,4AM
+1596,982,Asia books (ย้ายมา 4AM เมื่อ 6.5.58),False,4AM
+1597,983,Flight 001 (ย้ายมา 4AM เมื่อ 6.5.58),False,4AM
+1598,984,House of Stamp (ย้ายมา 4AM เมื่อ 5.6.58),True,4AM
+1599,985,PM (ย้ายมา 4AM เมื่อ 6.5.58),False,4AM
+1600,986,Fantasia (ย้ายมา 4AM เมื่อ 6.5.58),False,4AM
+1601,987,Equinox Extreme (ย้ายมา 4AM เมื่อ 6.5.58),False,4AM
+1602,988,The north Face,False,4AM
+1603,989,Jelly Dream (ย้ายมา 4AM เมื่อ 7.8.58),True,4AM
+1604,99,Hachiban Ramen,True,4AM
+1605,990,Black Jack,False,4AM
+1606,991,SPW Temp Space              ,True,4AM
+1607,992,COMME PLAYBOX (ย้ายมา 4AM เมื่อ 6.5.58),False,4AM
+1608,993,3D Copy Machine,False,4AM
+1609,994,Aris and Patas,False,4AM
+1610,995,Dress me up - Oasis,False,Oasis
+1611,996,Mathtalent - Oasis*,False,Oasis
+1612,997,Engker - Oasis*,False,Oasis
+1613,998,Deuter - Oasis,False,Oasis
+1614,999,THAITICKET MAJOR - Oasis,False,Oasis
+1615,TID011,TID011,True,None
+1616,TID020,TID020,True,None
+1617,TID021,TID021,True,None
+1618,TID023,TID023,True,None
+1619,TID20,TID20,True,None

@@ -1,0 +1,56 @@
+RetailKey,StoreNumber,StoreName,StoreCategory,CompanyCode,CompanyName
+1,,NONE,NONE,,
+2,2000,PM Head Quarter,PM,200,PINK POMELO,Ltd.
+3,2020,PM 4PM,PM,200,PINK POMELO,Ltd.
+4,2021,(NOT USE)PM The Square,PM,200,PINK POMELO,Ltd.
+5,2022,PM The Park,PM,200,PINK POMELO,Ltd.
+6,2023,(NOT USE)PM 4AM,PM,,
+7,2024,PM ZPELL,PM,200,PINK POMELO,Ltd.
+8,2025,PM Bangsan,PM,200,PINK POMELO,Ltd.
+9,2026,PM 4P,PM,,
+10,209901,SST-OUTSIDE 01,PM,,
+11,209920,(NOT USE)PM 4PM Outside,PM,,
+12,209921,(NOT USE)PM The Square Outside,PM,,
+13,209922,(NOT USE)PM The Park Outside,PM,,
+14,209924,(NOT USE)PM ZPELL Outside,PM,,
+15,2320,A-very-Wear,PPL,203,The Chosen One,Ltd.
+16,2321,The Selected,PPL,203,The Chosen One,Ltd.
+17,2322,The Wonder Room,PPL,203,The Chosen One,Ltd.
+18,2323,Gin & Milk,PPL,203,The Chosen One,Ltd.
+19,2325,O.D.S,PPL,203,The Chosen One,Ltd.
+20,2326,Cazh,PPL,203,The Chosen One,Ltd.
+21,2327,Pur-Suit,PPL,203,The Chosen One,Ltd.
+22,2328,Absolute Four Store,PPL,203,The Chosen One,Ltd.
+23,239901,The Souvenir (4AM Atrium 2),PPL,203,The Chosen One,Ltd.
+24,239902,The Souvenir (Tag Heuer),PPL,203,The Chosen One,Ltd.
+25,239903,The Souvenir Valentine (4AM Atrium 1),PPL,203,The Chosen One,Ltd.
+26,239904,The Souvenir Lucky Love (4AM Atrium 2),PPL,203,The Chosen One,Ltd.
+27,239905,The Souvenir (Bangsan),PPL,203,The Chosen One,Ltd.
+28,239906,The Souvenir (4AM Atrium 1),PPL,203,The Chosen One,Ltd.
+29,239907,The Souvenir (4AM Atrium 2),PPL,203,The Chosen One,Ltd.
+30,239908,TS Summer ( The Crystal),PPL,203,The Chosen One,Ltd.
+31,239909,The Selected (Popup 4AM 103),PPL,203,The Chosen One,Ltd.
+32,239910,The Souvenir (Bangsan),PPL,203,The Chosen One,Ltd.
+33,239911,The Souvenir (4AM Atrium 2),PPL,203,The Chosen One,Ltd.
+34,239912,The Souvenir x PM (Riverside Plaza),PPL,203,The Chosen One,Ltd.
+35,239913,TS Women Fashion (Amarin),PPL,203,The Chosen One,Ltd.
+36,239914,The Souvenir LOVE MOM (4PL),PPL,203,The Chosen One,Ltd.
+37,239915,The Souvenir (Tag Heuer),PPL,203,The Chosen One,Ltd.
+38,239916,The Souvenir (Amarin),PPL,203,The Chosen One,Ltd.
+39,239917,The Souvenir House of fashion (Amarin),PPL,203,The Chosen One,Ltd.
+40,239918,The Souvenir (4AM),PPL,203,The Chosen One,Ltd.
+41,239919,The Souvenir (4AM Atrium1),PPL,203,The Chosen One,Ltd.
+42,239920,The Souvenir (Tag Heuer),PPL,203,The Chosen One,Ltd.
+43,2420,Explorer Retail,Ltd.
+,EPR,204,Explorer Retail,Ltd.
+44,2421,(Not use)Open Space - Floor M,EPR,,
+45,2422,(Not use)Open Space - Floor 1st,EPR,,
+46,2423,(Not use)Open Space - Floor 2nd,EPR,,
+47,2424,(Not use)Open Space - Floor 3rd,EPR,,
+48,2425,(Not use)Open Space - Floor 4th,EPR,,
+49,2426,(Not use)Open Space - Floor 5th,EPR,,
+50,249901,OUTSIDE FOUR,EPR,204,Explorer Retail,Ltd.
+51,2520,FAND,TGR,205,The Grand Retail,Ltd.
+52,2521,FAND Bangsan,TGR,205,The Grand Retail,Ltd.
+53,2522,FAND 4P,TGR,,
+54,5120,4P Signature,4P,,
